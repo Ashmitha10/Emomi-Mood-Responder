@@ -1,1 +1,1 @@
-# Emomi-Mood-Responder
+# Emoji-Mood-Responder
